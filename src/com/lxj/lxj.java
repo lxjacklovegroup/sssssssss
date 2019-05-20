@@ -6,6 +6,6 @@ package com.lxj;
  */
 public class lxj {
     public static void main(String[] args) {
-        System.out.println("黎小江最帅！");
+        System.out.println("黎小江是最帅！");
     }
 }
